@@ -38,7 +38,7 @@ function Menus() {
         <div>
             <Hero />
             <SpecialDishes list={menu} />
-            <FilteredDishes />
+            <FilteredDishes/>
         </div>
     )
 }
